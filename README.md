@@ -12,13 +12,7 @@ Modern automotive systems involve complex multimodal technical documentation, in
 * Performance charts
 * Maintenance guidelines
 
-Professionals such as:
-
-* Automotive engineers
-* Service technicians
-* Mechanical students
-
-often rely on these documents for diagnostics, design understanding, and troubleshooting.
+Professionals such as: Automotive engineers, Service technicians, Mechanical students often rely on these documents for diagnostics, design understanding, and troubleshooting.
 --------------------------------------------------------------------------------------------------
 
 ## Problem Description
@@ -98,9 +92,7 @@ Can integrate: Text embeddings, Image embeddings (future scope), Enables diagram
 No need to retrain large models
 Works dynamically with updated documents
 
-5. Reduces Hallucination
-
-Responses are based on retrieved context → higher accuracy
+5. Reduces Hallucination: Responses are based on retrieved context → higher accuracy
 --------------------------------------------------------------------------------------------------
 
 ## Expected Outcomes
