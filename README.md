@@ -1,6 +1,5 @@
 
-#### Problem Statement & Requirements : To design, build, and deploy an end-to-end Multimodal Retrieval-Augmented Generation (RAG) system 
-that solves a real problem related to vehicle cooling systems and thermal management.
+#### Problem Statement & Requirements : To design, build, and deploy an end-to-end Multimodal Retrieval-Augmented Generation (RAG) system that solves a real problem related to vehicle cooling systems and thermal management.
 --------------------------------------------------------------------------------------------------
 ## Domain Identification
 
