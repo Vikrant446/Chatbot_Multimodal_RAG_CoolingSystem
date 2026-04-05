@@ -1,7 +1,7 @@
 import fitz
 
-def extract_pdf_content(file_path):
-    doc = fitz.open(file_path)
+def extract_pdf_content(Vikrant446/Chatbot_Multimodal_RAG_CoolingSystem/Data/Cooling _System.pdf):
+    doc = fitz.open(Vikrant446/Chatbot_Multimodal_RAG_CoolingSystem/Data/Cooling _System.pdf)
     texts, images = [], []
 
     for page_num, page in enumerate(doc):
