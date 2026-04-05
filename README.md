@@ -204,8 +204,6 @@ This project aims to build a domain-specific multimodal RAG chatbot for automoti
 └──────────────────────────┘
 --------------------------------------------------------------------------------------------------
 
-#### Simple RAG Architecture Block Diagram
-
 ## Technology Choices
 
 This section justifies the selection of each major component used in the RAG system.
