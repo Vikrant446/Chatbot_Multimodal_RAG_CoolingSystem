@@ -350,7 +350,7 @@ E. No Real-Time Learning
 System does not update dynamically after deployment
 --------------------------------------------------------------------------------------------------
 
-##Future Improvements
+## Future Improvements
 A. Integrate Advanced LLM
 Use GPT-4 / LLaMA for better reasoning
 B. Add Real Vision Model
